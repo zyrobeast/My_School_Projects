@@ -2,3 +2,6 @@
 *.ctxt
 *.class
 *.bluej
+*.tmp
+*.java#
+/**/README.TXT
